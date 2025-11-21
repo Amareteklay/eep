@@ -1,0 +1,10 @@
+.venv/
+
+.AGENTS.md
+
+reports/
+
+__pycache__/
+
+*.pyc
+
